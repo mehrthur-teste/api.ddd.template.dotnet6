@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gVLgf8nN8yJj4b7Z+tY98p+4IeU1kS98Sjy/oIsCio7+/ALmppzHuBPwbgO7h5W9WQ64sSpVR6l2CH1u9yHyQ==",
+  "success": true,
+  "projectFilePath": "c:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpnet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\gpnet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gpnet\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\gpnet\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\gpnet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\gpnet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
