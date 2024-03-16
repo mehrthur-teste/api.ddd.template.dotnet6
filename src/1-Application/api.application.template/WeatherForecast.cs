@@ -1,4 +1,4 @@
-namespace application;
+namespace api.application.template;
 
 public class WeatherForecast
 {

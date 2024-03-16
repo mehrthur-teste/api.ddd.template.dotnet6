@@ -443,9 +443,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\application.csproj",
-      "projectName": "application",
-      "projectPath": "C:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\application.csproj",
+      "projectUniqueName": "C:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\api.application.template.csproj",
+      "projectName": "api.application.template",
+      "projectPath": "C:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\api.application.template.csproj",
       "packagesPath": "C:\\Users\\gpnet\\.nuget\\packages\\",
       "outputPath": "C:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\obj\\",
       "projectStyle": "PackageReference",

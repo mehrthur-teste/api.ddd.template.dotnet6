@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\1-Application"
   ],
   "SelectedNode": "\\api.headphones.template.sln",
   "PreviewInSolutionExplorer": false
