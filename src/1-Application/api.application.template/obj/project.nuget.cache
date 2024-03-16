@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NcBclISa35YuhjnV5/yuP51FY5ySGpcINYQX55T+k+J6T481u1dn7woARt7kKp94NkM3Agt/jE4Cf99DgvGOYw==",
+  "dgSpecHash": "BN6ptRLYhO3PM3xZiDmm/pCQ/DiAudojKzGXdP+9bo+r9dfTc0yCUYAs4/SBal1e2k+DgIXuL7XO8lge23jn+Q==",
   "success": true,
-  "projectFilePath": "c:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\api.application.template.csproj",
+  "projectFilePath": "C:\\projects-to-migration\\api.ddd.template.dotnet6\\src\\1-Application\\api.application.template\\api.application.template.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gpnet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\gpnet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
