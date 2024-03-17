@@ -11,15 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.application.template", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{2C49F2F5-EF05-4CC6-BAA5-9FB3BA75DE1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.domain.template", "src\2-Domain\api.domain.template\api.domain.template.csproj", "{1EA77E34-4393-4EB0-9A53-46F363730B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.domain.template", "src\2-Domain\api.domain.template\api.domain.template.csproj", "{1EA77E34-4393-4EB0-9A53-46F363730B59}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-CrossCutting", "5-CrossCutting", "{50538AC5-FF07-46F6-9AB2-399DAF6B9048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.cross-cutting.template", "src\5-CrossCutting\api.cross-cutting.template\api.cross-cutting.template.csproj", "{5CC7B7C3-C35E-4251-80FD-C8289507170C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.cross-cutting.template", "src\5-CrossCutting\api.cross-cutting.template\api.cross-cutting.template.csproj", "{5CC7B7C3-C35E-4251-80FD-C8289507170C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Data", "3-Data", "{10D6598C-4970-49FC-98F2-47518148F477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.data.template", "src\3-Data\api.data.template\api.data.template.csproj", "{BB4AAD39-EEAE-4335-B25B-4051AE482F0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.data.template", "src\3-Data\api.data.template\api.data.template.csproj", "{BB4AAD39-EEAE-4335-B25B-4051AE482F0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Service", "4-Service", "{0773BE78-83DA-4819-A764-8E450CC11E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.service.template", "src\4-Service\api.service.template\api.service.template.csproj", "{999CBB7A-E8C0-4C1B-B188-8C7A6C9BB7E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +47,10 @@ Global
 		{BB4AAD39-EEAE-4335-B25B-4051AE482F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB4AAD39-EEAE-4335-B25B-4051AE482F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB4AAD39-EEAE-4335-B25B-4051AE482F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999CBB7A-E8C0-4C1B-B188-8C7A6C9BB7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999CBB7A-E8C0-4C1B-B188-8C7A6C9BB7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999CBB7A-E8C0-4C1B-B188-8C7A6C9BB7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999CBB7A-E8C0-4C1B-B188-8C7A6C9BB7E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,5 +64,7 @@ Global
 		{5CC7B7C3-C35E-4251-80FD-C8289507170C} = {50538AC5-FF07-46F6-9AB2-399DAF6B9048}
 		{10D6598C-4970-49FC-98F2-47518148F477} = {8771F7B4-BC90-4008-AD78-9EF660954D35}
 		{BB4AAD39-EEAE-4335-B25B-4051AE482F0F} = {10D6598C-4970-49FC-98F2-47518148F477}
+		{0773BE78-83DA-4819-A764-8E450CC11E98} = {8771F7B4-BC90-4008-AD78-9EF660954D35}
+		{999CBB7A-E8C0-4C1B-B188-8C7A6C9BB7E5} = {0773BE78-83DA-4819-A764-8E450CC11E98}
 	EndGlobalSection
 EndGlobal
