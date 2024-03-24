@@ -13,4 +13,8 @@
     <ProjectReference Include="..\..\4-Service\api.service.template\api.service.template.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DependencyInjection\" />
+  </ItemGroup>
+
 </Project>
