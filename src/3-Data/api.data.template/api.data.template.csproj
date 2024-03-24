@@ -19,8 +19,4 @@
     <ProjectReference Include="..\..\2-Domain\api.domain.template\api.domain.template.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
 </Project>

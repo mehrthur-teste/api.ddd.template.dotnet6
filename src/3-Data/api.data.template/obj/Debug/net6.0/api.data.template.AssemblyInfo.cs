@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api.data.template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d6a57bc67f93d6fe5d715eccca1e30b1a294169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+300390071887c3b0ae0b2f93903cad7a384c4fb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("api.data.template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api.data.template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
