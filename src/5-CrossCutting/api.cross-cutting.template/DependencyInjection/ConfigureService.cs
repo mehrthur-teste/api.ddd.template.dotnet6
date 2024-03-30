@@ -1,4 +1,5 @@
-﻿using api.domain.template.Interfaces.Services.User;
+﻿using api.domain.template.Interfaces.Services.Login;
+using api.domain.template.Interfaces.Services.User;
 using api.service.template;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -14,6 +15,7 @@ namespace api.cross_cutting.template.DependencyInjection
         public static void ConfigureDependenciesService(IServiceCollection serviceCollection)
         {
             serviceCollection.AddTransient<IUserService, UserService>();
+            serviceCollection.AddTransient<ILoginService, LoginService>();
         }
     }
 }

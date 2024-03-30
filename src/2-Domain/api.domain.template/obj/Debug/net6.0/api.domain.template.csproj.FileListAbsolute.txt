@@ -1,6 +1,7 @@
 C:\projects-to-migration\api.ddd.template.dotnet6\src\2-Domain\api.domain.template\bin\Debug\net6.0\api.domain.template.deps.json
 C:\projects-to-migration\api.ddd.template.dotnet6\src\2-Domain\api.domain.template\bin\Debug\net6.0\api.domain.template.dll
 C:\projects-to-migration\api.ddd.template.dotnet6\src\2-Domain\api.domain.template\bin\Debug\net6.0\api.domain.template.pdb
+C:\projects-to-migration\api.ddd.template.dotnet6\src\2-Domain\api.domain.template\obj\Debug\net6.0\api.domain.template.csproj.AssemblyReference.cache
 C:\projects-to-migration\api.ddd.template.dotnet6\src\2-Domain\api.domain.template\obj\Debug\net6.0\api.domain.template.GeneratedMSBuildEditorConfig.editorconfig
 C:\projects-to-migration\api.ddd.template.dotnet6\src\2-Domain\api.domain.template\obj\Debug\net6.0\api.domain.template.AssemblyInfoInputs.cache
 C:\projects-to-migration\api.ddd.template.dotnet6\src\2-Domain\api.domain.template\obj\Debug\net6.0\api.domain.template.AssemblyInfo.cs
